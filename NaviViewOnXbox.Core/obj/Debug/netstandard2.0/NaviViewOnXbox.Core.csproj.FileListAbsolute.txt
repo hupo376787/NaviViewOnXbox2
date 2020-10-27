@@ -1,0 +1,9 @@
+C:\Users\Vincent\source\repos\NaviViewOnXbox\NaviViewOnXbox.Core\bin\Debug\netstandard2.0\NaviViewOnXbox.Core.deps.json
+C:\Users\Vincent\source\repos\NaviViewOnXbox\NaviViewOnXbox.Core\bin\Debug\netstandard2.0\NaviViewOnXbox.Core.dll
+C:\Users\Vincent\source\repos\NaviViewOnXbox\NaviViewOnXbox.Core\obj\Debug\netstandard2.0\NaviViewOnXbox.Core.csprojAssemblyReference.cache
+C:\Users\Vincent\source\repos\NaviViewOnXbox\NaviViewOnXbox.Core\obj\Debug\netstandard2.0\NaviViewOnXbox.Core.AssemblyInfoInputs.cache
+C:\Users\Vincent\source\repos\NaviViewOnXbox\NaviViewOnXbox.Core\obj\Debug\netstandard2.0\NaviViewOnXbox.Core.AssemblyInfo.cs
+C:\Users\Vincent\source\repos\NaviViewOnXbox\NaviViewOnXbox.Core\bin\Debug\netstandard2.0\NaviViewOnXbox.Core.pdb
+C:\Users\Vincent\source\repos\NaviViewOnXbox\NaviViewOnXbox.Core\obj\Debug\netstandard2.0\NaviViewOnXbox.Core.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\source\repos\NaviViewOnXbox\NaviViewOnXbox.Core\obj\Debug\netstandard2.0\NaviViewOnXbox.Core.dll
+C:\Users\Vincent\source\repos\NaviViewOnXbox\NaviViewOnXbox.Core\obj\Debug\netstandard2.0\NaviViewOnXbox.Core.pdb

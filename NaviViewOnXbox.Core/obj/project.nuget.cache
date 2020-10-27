@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iNGjI+8yR2hrE1i2hkQPW9LPHitZnXWbjLYedZyxKS4Cz4Dejimo6k/Yi/tmG7U35MCmlMQp8s3RMWGR42qwIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vincent\\source\\repos\\NaviViewOnXbox\\NaviViewOnXbox.Core\\NaviViewOnXbox.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vincent\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Vincent\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Vincent\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
